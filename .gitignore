@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.img
+*.iso
+*.qcow2
+*.gz
+*.xz
+*.part-*
+assets/
+build/
+logs/
+*.key
+*.pem
+id_*
+*credential*
+authorized_keys
+ssh_host_*
